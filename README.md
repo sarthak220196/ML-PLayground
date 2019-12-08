@@ -1,4 +1,4 @@
-# MyProjectsRepo1
+# ML- Plaground
 A Small Repo of all the Data Science projects I have executed 
 
 This includes 1 problem each on 
